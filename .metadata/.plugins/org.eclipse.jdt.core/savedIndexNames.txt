@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Akademija Strukovnih studija Nis\Predavanja\II Godina\3 Semestar\4 - PARS - Programski alati za razvoj softvera\Vezbe Java\Vezba 5\.metadata\.plugins\org.eclipse.jdt.core
+966245905.index
+4229317736.index
+1865797976.index
