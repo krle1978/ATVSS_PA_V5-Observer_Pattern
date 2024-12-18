@@ -1,0 +1,6 @@
+package ObserverPattern;
+
+//Observer
+interface Observer {
+	void update(float temperature);
+}

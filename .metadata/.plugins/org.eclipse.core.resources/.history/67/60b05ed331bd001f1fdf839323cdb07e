@@ -1,0 +1,6 @@
+package StrategyPattern;
+
+//Interfejs za strategiju popusta
+public class IDiscountStrategy {
+	double applyDiscount(double price);
+}
